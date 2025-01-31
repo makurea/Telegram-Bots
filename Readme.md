@@ -5,4 +5,5 @@
 ## Оглавление
 
 - [AnimeFinderBot](/AnimeFinderBot)
-- [Телеграмм Бот Прогноза Погоды](/Weather)
+- [Телеграмм Бот Прогноза Погоды - Python](/Weather)
+- [Телеграмм Бот Прогноза Погоды - Java](/WeatherBot)
